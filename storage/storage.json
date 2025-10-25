@@ -46,11 +46,11 @@
             "My Board"
         ],
         "priority": 1,
-        "inProgress": true,
+        "inProgress": false,
         "isCanceled": false,
-        "isComplete": false,
+        "isComplete": true,
         "dueDate": 0,
-        "passedTime": 0,
-        "lastStartTime": 1761391576790
+        "passedTime": 91015,
+        "lastStartTime": 0
     }
 ]

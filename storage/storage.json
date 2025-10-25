@@ -70,5 +70,23 @@
         "dueDate": 0,
         "passedTime": 91015,
         "lastStartTime": 0
+    },
+    {
+        "id": 5,
+        "date": "Sat Oct 25 2025",
+        "timestamp": 1761399138444,
+        "isTask": true,
+        "description": "Solve latest div 2 contest on codeforces",
+        "isStarred": false,
+        "boards": [
+            "My Board"
+        ],
+        "priority": 1,
+        "inProgress": false,
+        "isCanceled": false,
+        "isComplete": false,
+        "dueDate": 0,
+        "passedTime": 0,
+        "lastStartTime": 0
     }
 ]

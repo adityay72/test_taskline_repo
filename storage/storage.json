@@ -124,5 +124,23 @@
         "dueDate": 1761589800000,
         "passedTime": 0,
         "lastStartTime": 0
+    },
+    {
+        "id": 10,
+        "date": "Sat Oct 25 2025",
+        "timestamp": 1761412904801,
+        "isTask": true,
+        "description": "Fix issue `#42` ",
+        "isStarred": false,
+        "boards": [
+            "coding"
+        ],
+        "priority": 3,
+        "inProgress": false,
+        "isCanceled": false,
+        "isComplete": false,
+        "dueDate": 0,
+        "passedTime": 0,
+        "lastStartTime": 0
     }
 ]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "date": "Sat Oct 25 2025",
+        "timestamp": 1761390274944,
+        "isTask": true,
+        "description": "Test GitStorage",
+        "isStarred": false,
+        "boards": [
+            "My Board"
+        ],
+        "priority": 1,
+        "inProgress": false,
+        "isCanceled": false,
+        "isComplete": false,
+        "dueDate": 0,
+        "passedTime": 0,
+        "lastStartTime": 0
+    }
+]

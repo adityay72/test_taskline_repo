@@ -34,5 +34,41 @@
         "dueDate": 0,
         "passedTime": 0,
         "lastStartTime": 0
+    },
+    {
+        "id": 5,
+        "date": "Sat Oct 25 2025",
+        "timestamp": 1761390692434,
+        "isTask": true,
+        "description": "Test update gitstorage",
+        "isStarred": false,
+        "boards": [
+            "My Board"
+        ],
+        "priority": 1,
+        "inProgress": false,
+        "isCanceled": true,
+        "isComplete": false,
+        "dueDate": 0,
+        "passedTime": 36674,
+        "lastStartTime": 0
+    },
+    {
+        "id": 6,
+        "date": "Sat Oct 25 2025",
+        "timestamp": 1761391204011,
+        "isTask": true,
+        "description": "Test updated gitstorage but with push this time",
+        "isStarred": false,
+        "boards": [
+            "My Board"
+        ],
+        "priority": 1,
+        "inProgress": false,
+        "isCanceled": false,
+        "isComplete": true,
+        "dueDate": 0,
+        "passedTime": 91015,
+        "lastStartTime": 0
     }
 ]

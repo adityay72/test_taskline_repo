@@ -18,24 +18,6 @@
         "lastStartTime": 0
     },
     {
-        "id": 2,
-        "date": "Sat Oct 25 2025",
-        "timestamp": 1761390692434,
-        "isTask": true,
-        "description": "Test update gitstorage",
-        "isStarred": false,
-        "boards": [
-            "My Board"
-        ],
-        "priority": 1,
-        "inProgress": false,
-        "isCanceled": true,
-        "isComplete": false,
-        "dueDate": 0,
-        "passedTime": 36674,
-        "lastStartTime": 0
-    },
-    {
         "id": 3,
         "date": "Sat Oct 25 2025",
         "timestamp": 1761391204011,

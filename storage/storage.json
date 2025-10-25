@@ -106,5 +106,23 @@
         "dueDate": 0,
         "passedTime": 0,
         "lastStartTime": 0
+    },
+    {
+        "id": 9,
+        "date": "Sat Oct 25 2025",
+        "timestamp": 1761412815589,
+        "isTask": true,
+        "description": "Solve puzzle",
+        "isStarred": false,
+        "boards": [
+            "coding"
+        ],
+        "priority": 1,
+        "inProgress": false,
+        "isCanceled": false,
+        "isComplete": false,
+        "dueDate": 1761589800000,
+        "passedTime": 0,
+        "lastStartTime": 0
     }
 ]

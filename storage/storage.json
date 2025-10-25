@@ -101,7 +101,7 @@
         ],
         "priority": 1,
         "inProgress": false,
-        "isCanceled": false,
+        "isCanceled": true,
         "isComplete": false,
         "dueDate": 0,
         "passedTime": 0,

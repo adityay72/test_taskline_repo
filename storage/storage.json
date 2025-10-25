@@ -142,23 +142,5 @@
         "dueDate": 0,
         "passedTime": 0,
         "lastStartTime": 0
-    },
-    {
-        "id": 9,
-        "date": "Sat Oct 25 2025",
-        "timestamp": 1761411483710,
-        "isTask": true,
-        "description": "Is this working alright?",
-        "isStarred": false,
-        "boards": [
-            "My Board"
-        ],
-        "priority": 1,
-        "inProgress": false,
-        "isCanceled": false,
-        "isComplete": false,
-        "dueDate": 0,
-        "passedTime": 0,
-        "lastStartTime": 0
     }
 ]

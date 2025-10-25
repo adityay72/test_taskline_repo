@@ -5,7 +5,7 @@
         "timestamp": 1761390274944,
         "isTask": true,
         "description": "Test GitStorage",
-        "isStarred": false,
+        "isStarred": true,
         "boards": [
             "My Board"
         ],

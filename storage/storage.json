@@ -108,24 +108,6 @@
         "lastStartTime": 0
     },
     {
-        "id": 7,
-        "date": "Sat Oct 25 2025",
-        "timestamp": 1761409553773,
-        "isTask": true,
-        "description": "Adding simpler concurrency logic",
-        "isStarred": false,
-        "boards": [
-            "My Board"
-        ],
-        "priority": 1,
-        "inProgress": false,
-        "isCanceled": false,
-        "isComplete": false,
-        "dueDate": 0,
-        "passedTime": 0,
-        "lastStartTime": 0
-    },
-    {
         "id": 8,
         "date": "Sat Oct 25 2025",
         "timestamp": 1761410225935,
